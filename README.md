@@ -5,7 +5,7 @@
 <div>
  <a href="https://github.com/helenaperdigueiro">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=helenaperdigueiro&show_icons=true&random=&randomss524272&theme=onedark&include_all_commits=true&count_private=true&hide_rank=true&hide_border=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenaperdigueiro&layout=compact&langs_count=7&theme=onedark&hide_border=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenaperdigueiro&layout=compact&langs_count=7&random=&randomss524272&theme=onedark&hide_border=true"/>
 </div>
 
 <div style="display: inline_block"><br>
